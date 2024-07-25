@@ -1,5 +1,7 @@
 # Intel® Explainable AI Tools
 
+This is a co-work with US team during my internship at Intel. You can find my name on contributors from the original repository. Here is a [demo](https://huggingface.co/spaces/Intel/intel-xai-tools-cam-demo) of CAM explainer. 
+
 This repository provides tools for data scientists and MLOps engineers that have requirements specific to AI model interpretability.
 
 ## Overview
